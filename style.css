@@ -1,0 +1,26 @@
+.turn-light-on{
+    content:url("img/light-bulb-on.png");
+}
+.light{
+    width: 200px;
+    height: 200px;
+}
+
+.blackBG{
+    background-color: black;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    column-gap: 20px;
+    row-gap: 20px;
+    width: auto;
+    height: 100vh;
+}
+
+.light-switch{
+    width: 50px;
+}
